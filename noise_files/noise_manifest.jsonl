@@ -1,0 +1,12 @@
+{"audio_filepath": "background_noise/exercise_bike.wav", "duration": 61.253875, "label": "noise", "text": "_", "offset": 0.0}
+{"audio_filepath": "background_noise/food_court.wav", "duration": 59.988375, "label": "noise", "text": "_", "offset": 0.0}
+{"audio_filepath": "background_noise/talking_people.wav", "duration": 81.192, "label": "noise", "text": "_", "offset": 0.0}
+{"audio_filepath": "background_noise/animals.wav", "duration": 44.359625, "label": "noise", "text": "_", "offset": 0.0}
+{"audio_filepath": "background_noise/white_noise.wav", "duration": 60.0, "label": "noise", "text": "_", "offset": 0.0}
+{"audio_filepath": "background_noise/playground_kids.wav", "duration": 61.572, "label": "noise", "text": "_", "offset": 0.0}
+{"audio_filepath": "background_noise/doing_the_dishes.wav", "duration": 95.183125, "label": "noise", "text": "_", "offset": 0.0}
+{"audio_filepath": "background_noise/fan.wav", "duration": 114.24, "label": "noise", "text": "_", "offset": 0.0}
+{"audio_filepath": "background_noise/piano.wav", "duration": 55.968, "label": "noise", "text": "_", "offset": 0.0}
+{"audio_filepath": "background_noise/pink_noise.wav", "duration": 60.0, "label": "noise", "text": "_", "offset": 0.0}
+{"audio_filepath": "background_noise/crowded.wav", "duration": 28.0221875, "label": "noise", "text": "_", "offset": 0.0}
+{"audio_filepath": "background_noise/running_tap.wav", "duration": 61.1555, "label": "noise", "text": "_", "offset": 0.0}
