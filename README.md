@@ -1,4 +1,4 @@
-# Data augmentation for Automatic Speech Recognition or Speech Classification 
+# Data Augmentation for Speech Classification or Automatic Speech Recognition
 
 You can use this repository to generate syntactic data for ASR models training. 
  
