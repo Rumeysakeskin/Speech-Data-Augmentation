@@ -17,4 +17,4 @@ You can use this repository to generate syntactic data for ASR models training.
 - Create `manifest_label1_aug_noise.jsonl` to be used for model training/fine tuning in speech classication.
 - run `data_augmentation.ipynb`
 
-Reference source code for [augmentation](https://colab.research.google.com/github/NVIDIA/NeMo/blob/v1.0.0b2/tutorials/asr/05_Online_Noise_Augmentation.ipynb#scrollTo=zV9ypBqz7V9a)
+[Reference source code](https://colab.research.google.com/github/NVIDIA/NeMo/blob/v1.0.0b2/tutorials/asr/05_Online_Noise_Augmentation.ipynb#scrollTo=zV9ypBqz7V9a) for augmentation.
