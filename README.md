@@ -1,6 +1,6 @@
 # Data Augmentation for Speech Classification or Automatic Speech Recognition
 
-You can use this repository to generate syntactic data for ASR models training. 
+You can use this repository to increase the diversity of your dataset augmenting the data artificially for ASR models training. 
  
 ## Noise Data Preprocessing 
 - Collect background noise wav files `/background_noise/`. 
