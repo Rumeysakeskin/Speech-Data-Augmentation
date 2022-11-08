@@ -1,4 +1,4 @@
-# Data Augmentation for Speech Classification or Automatic Speech Recognition
+# Data Augmentation for Speech Command Recognition and Automatic Speech Recognition
 
 You can use this repository to increase the diversity of your dataset augmenting the data artificially for ASR models training. 
  
