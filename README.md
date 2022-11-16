@@ -12,7 +12,6 @@ You can use this repository to increase the diversity of your dataset augmenting
 create_noisy_files.ipynb
 ```
 
-
 ##  Data Augmentation 
 - Create `manifest_label1.jsonl` for key words.
 - Apply **Speed Perturbation** to change the speed of the speech, but it does not preserve pitch of the sound. Try a few random augmentations to see how the pitch changes with change in duration of the audio file.
