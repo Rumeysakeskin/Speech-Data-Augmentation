@@ -8,7 +8,7 @@ You can use this repository to increase the diversity of your dataset augmenting
 - Convert noise files to the same sample rate as your dataset.
 - Create `/noise_files/noise_manifest.jsonl` to be used for data augmentation.
 - Run the following script for noisy data processing:  
-```
+```python
 create_noisy_files.ipynb
 ```
 
@@ -18,13 +18,13 @@ create_noisy_files.ipynb
 - Apply **Noise Perturbation** to add backgorund noise to original speech. It randomly chooses an audio clip from the set of noise audio samples available.
 - Create `manifest_label1_aug_noise.jsonl` to be used for model training/fine tuning in speech classication.
 - Run the following script for data augmentation:   
-```
+```python
 data_augmentation.ipynb
 ```
 
 ##  Check Data Before Training
 - Run the following script to check the files exist and shuffle the manifest file before training:
-```
+```python
 check_file_paths_exist_and_shuffle.ipynb
 ```
 
